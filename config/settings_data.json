@@ -10,6 +10,7 @@
 {
   "current": {
     "storefront_hostname": "www.adsterling.com",
+    "custom_redirects": "/policies/privacy-policy > /policies/privacy-policy",
     "content_for_index": []
   }
 }
