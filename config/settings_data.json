@@ -10,7 +10,7 @@
 {
   "current": {
     "storefront_hostname": "www.adsterling.com",
-    "custom_redirects": "",
+    "custom_redirects": "/ > https://www.adsterling.com",
     "content_for_index": []
   }
 }
